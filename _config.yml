@@ -1,2 +1,4 @@
 name: Dan Horwood
 markdown: kramdown
+
+theme: jekyll-theme-midnight
